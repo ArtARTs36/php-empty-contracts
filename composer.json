@@ -1,0 +1,16 @@
+{
+    "name": "artarts36/empty-contracts",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ArtARTs36\\EmptyContracts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "artarts36",
+            "email": "temicska99@mail.ru"
+        }
+    ]
+}
